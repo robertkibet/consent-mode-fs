@@ -14,16 +14,16 @@ ___INFO___
   "__wm": "VGVtcGFsdGUtQXV0aG9yX0NvbnNlbnRNb2RlLVNpbW8tQWhhdmE\u003d",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Consent Mode (Google tags)",
+  "displayName": "Finsweet Consent Mode (Google tags)",
   "categories": [
     "UTILITY",
     "ANALYTICS",
     "ADVERTISING"
   ],
   "brand": {
-    "id": "github.com_gtm-templates-simo-ahava",
-    "displayName": "gtm-templates-simo-ahava",
-    "thumbnail": "data:image/png;base64,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\u003d\u003d"
+    "id": "github.com_finsweet-templates-cookie-consent",
+    "displayName": "finsweet-templates-cookie-consent",
+    "thumbnail": "data:image/png;base64,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\u003d"
   },
   "description": "Adjust tag behavior based on consent. This template utilizes Google\u0027s Consent API and can be used to adjust how Google\u0027s advertising and analytics tools use cookies and process ad identifiers.",
   "containerContexts": [
@@ -76,55 +76,13 @@ ___TEMPLATE_PARAMETERS___
     ]
   },
   {
-    "type": "CHECKBOX",
-    "name": "eea",
-    "checkboxText": "Include EEA regions",
-    "simpleValueType": true,
-    "help": "Check this box to apply this tag only to visitors from the European Economic Area.",
-    "defaultValue": false,
-    "enablingConditions": [
-      {
-        "paramName": "command",
-        "paramValue": "default",
-        "type": "EQUALS"
-      }
-    ]
-  },
-  {
     "type": "TEXT",
     "name": "regions",
     "displayName": "Regions",
     "simpleValueType": true,
     "defaultValue": "all",
     "help": "Apply this setting to users from these \u003ca href\u003d\"https://en.wikipedia.org/wiki/ISO_3166-2\"\u003eregions\u003c/a\u003e (provide a comma-separated list). If you type \u003cstrong\u003eall\u003c/strong\u003e, the setting will apply to all users. If you type \u003cstrong\u003eeea\u003c/strong\u003e as one of the regions, the tag will automatically include all European Economic Area regions as geographical targets for this command.",
-    "enablingConditions": [
-      {
-        "paramName": "eea",
-        "paramValue": false,
-        "type": "EQUALS"
-      }
-    ],
-    "valueValidators": [
-      {
-        "type": "NON_EMPTY",
-        "errorMessage": "Set to \"all\" for all regions or add a comma-separated list of regions."
-      }
-    ]
-  },
-  {
-    "type": "TEXT",
-    "name": "regionsEEA",
-    "displayName": "Regions",
-    "simpleValueType": true,
-    "defaultValue": "eea",
-    "help": "Apply this setting to users from these \u003ca href\u003d\"https://en.wikipedia.org/wiki/ISO_3166-2\"\u003eregions\u003c/a\u003e (provide a comma-separated list). If you type \u003cstrong\u003eall\u003c/strong\u003e, the setting will apply to all users. If you type \u003cstrong\u003eeea\u003c/strong\u003e as one of the regions, the tag will automatically include all European Economic Area regions as geographical targets for this command.",
-    "enablingConditions": [
-      {
-        "paramName": "eea",
-        "paramValue": true,
-        "type": "EQUALS"
-      }
-    ],
+    "enablingConditions": [],
     "valueValidators": [
       {
         "type": "NON_EMPTY",
@@ -308,7 +266,7 @@ ___TEMPLATE_PARAMETERS___
               }
             ],
             "simpleValueType": true,
-            "defaultValue": "denied"
+            "defaultValue": "granted"
           }
         ]
       }
@@ -356,41 +314,8 @@ const makeTableMap = require('makeTableMap');
 const setDefaultConsentState = require('setDefaultConsentState');
 const updateConsentState = require('updateConsentState');
 
-const eeaRegions = [
-  "AT",
-  "BE",
-  "BG",
-  "HR",
-  "CY",
-  "CZ",
-  "DK",
-  "EE",
-  "FI",
-  "FR",
-  "DE",
-  "GR",
-  "HU",
-  "IE",
-  "IT",
-  "LV",
-  "LT",
-  "LU",
-  "MT",
-  "NL",
-  "PL",
-  "PT",
-  "RO",
-  "SK",
-  "SI",
-  "ES",
-  "SE",
-  "NO",
-  "IS",
-  "LI"
-];
+const regions = data.regions;
 
-const regions = data.regions || data.regionsEEA;
-  
 // Determine the command and the setting object
 const consentApi = data.command === 'default' ? setDefaultConsentState : updateConsentState;
 
@@ -404,27 +329,15 @@ if (data.personalization_storage !== 'notset') settingsObject.personalization_st
 if (data.functionality_storage !== 'notset') settingsObject.functionality_storage = data.functionality_storage;
 if (data.security_storage !== 'notset') settingsObject.security_storage = data.security_storage;
 
-
 // Settings specific to the "default" command
 if (data.command === 'default' && makeNumber(data.wait_for_update) > 0) {
   settingsObject.wait_for_update = makeNumber(data.wait_for_update);
 }
 
-if (data.command === 'default' && regions !== 'all') {
-  let setRegions = regions.split(',').map(r => r.trim());
-  // Check if EEA regions are included
-  if (setRegions.indexOf('eea') > -1) {
-    setRegions = setRegions.concat(eeaRegions);
-    // Remove duplicates & eea
-    setRegions = setRegions.filter((val, idx) => setRegions.indexOf(val) === idx && val !== 'eea');
-  }
-  settingsObject.region = setRegions;
-}
-  
 // Set advanced settings
 gtagSet({
   url_passthrough: data.url_passthrough || false,
-  ads_data_redaction: data.ads_data_redaction || false
+  ads_data_redaction: data.ads_data_redaction || false,
 });
 
 // Set the consent state
@@ -813,7 +726,6 @@ scenarios:
       personalization_storage: 'denied',
       functionality_storage: 'denied',
       security_storage: 'denied',
-      region: ['US-CA'],
       wait_for_update: 500
     });
 
@@ -852,10 +764,10 @@ scenarios:
     \        o.analytics_storage === 'denied' && \n        o.ad_user_data === 'granted'\
     \ &&\n        o.ad_personalization === 'denied' &&\n        o.personalization_storage\
     \ === 'denied' &&\n        o.functionality_storage === 'denied' &&\n        o.security_storage\
-    \ === 'denied' &&\n        o.region[0] === 'US-CA') dlCalled = true;\n    \n \
-    \ };\n});\n    \n// Call runCode to run the template's code.\nrunCode(mockData);\n\
-    \n// Verify that the tag finished successfully.\nassertApi('gtmOnSuccess').wasCalled();\n\
-    assertThat(dlCalled, 'dataLayer not called with correct arguments').isEqualTo(true);"
+    \ === 'denied') dlCalled = true;\n    \n  };\n});\n    \n// Call runCode to run\
+    \ the template's code.\nrunCode(mockData);\n\n// Verify that the tag finished\
+    \ successfully.\nassertApi('gtmOnSuccess').wasCalled();\nassertThat(dlCalled,\
+    \ 'dataLayer not called with correct arguments').isEqualTo(true);"
 setup: |-
   const mockData = {
     command: 'default',
